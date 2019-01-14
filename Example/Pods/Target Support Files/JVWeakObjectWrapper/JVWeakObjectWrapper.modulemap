@@ -1,0 +1,6 @@
+framework module JVWeakObjectWrapper {
+  umbrella header "JVWeakObjectWrapper-umbrella.h"
+
+  export *
+  module * { export * }
+}

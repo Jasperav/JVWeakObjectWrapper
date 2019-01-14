@@ -1,0 +1,16 @@
+PODS:
+  - JVWeakObjectWrapper (0.1.0)
+
+DEPENDENCIES:
+  - JVWeakObjectWrapper (from `../`)
+
+EXTERNAL SOURCES:
+  JVWeakObjectWrapper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVWeakObjectWrapper: 7d3c93f5492c6c18bc9e62e7d0b8924a131d2de9
+
+PODFILE CHECKSUM: 3a188d4c692b360b313384a70d943776cdbeb252
+
+COCOAPODS: 1.6.0.beta.1
