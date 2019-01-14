@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVWeakObjectWrapper_Tests' do
+  pod 'JVWeakObjectWrapper', :path => '../'
+  
+  
+end
